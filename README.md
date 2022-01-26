@@ -14,3 +14,7 @@ This is the last challenge of Bootcamp ..yohoo ! The task is to remove REACT glo
  
  This will start website https://localhost:3000/
  
+# Video guide
+Signup Form
+![Shop shop signup](https://user-images.githubusercontent.com/57235369/151229505-4816b3f8-5f06-4779-a546-34d12b16387a.gif)
+
